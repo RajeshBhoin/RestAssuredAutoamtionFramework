@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/Rajesh/IdeaProjects/RestAssuredAutomation">
         <classes>
-            <class name="UserDetails.UserDetails">
+            <class name="UserDetails.UserDetailsTest">
                 <methods>
                     <include name="createUser"/>
                 </methods>
